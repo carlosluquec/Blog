@@ -1,2 +1,2 @@
 # Blog_Sp
-Un blog para deportes hecho en HTML y CSS
+Un blog personal hecho en HTML y CSS
